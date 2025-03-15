@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bilal! <br/><a href="https://github.com/bilalh2001">Programmer</a>, <a href="https://www.linkedin.com/in/BilalHaider/">Student</a></h1>
+<h1>Hi, I'm Bilal! <br/><a href="https://github.com/bilalh2001">Programmer</a>, <a href="https://linkedin.com/in/bilal-haider-a5535b177">Student</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
