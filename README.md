@@ -4,7 +4,7 @@
 
 - <b>HTML & CSS Applications</b>
   - [Time Capsule](https://github.com/joshmadakor1/EncrypterPOC) <b><i>(WORK IN PROGRESS)</b></i>
-  - [Personal Portfolio](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Personal Portfolio](https://github.com/bilalh2001/Personal-Portfolio/tree/main)
 - <b>Java Applications</b>
   - [Mood Improvement Advisor](https://github.com/bilalh2001/Mood-Improvement-Advisor) 
 - <b>C# Applications</b>
