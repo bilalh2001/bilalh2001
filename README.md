@@ -8,7 +8,7 @@
 - <b>Java Applications</b>
   - [Mood Improvement Advisor](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>C# Applications</b>
-  - [BMI Insight Tracker](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [BMI Insight Tracker](https://github.com/joshmadakor1/Sentinel-Lab](https://github.com/bilalh2001/BMI-Insight-Tracker))
 
 <h2>✅ Courses & Certifications</h2>
 
