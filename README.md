@@ -6,7 +6,7 @@
   - [Time Capsule](https://github.com/joshmadakor1/EncrypterPOC) <b><i>(WORK IN PROGRESS)</b></i>
   - [Personal Portfolio](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Java Applications</b>
-  - [Mood Improvement Advisor](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Mood Improvement Advisor](https://github.com/bilalh2001/Mood-Improvement-Advisor) 
 - <b>C# Applications</b>
   - [BMI Insight Tracker](https://github.com/bilalh2001/BMI-Insight-Tracker)
 
