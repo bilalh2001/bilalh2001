@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>HTML & CSS Applications</b>
-  - [Time Capsule](https://github.com/joshmadakor1/EncrypterPOC) <b><i>(WORK IN PROGRESS)</b></i>
+  - [Time Capsule](https://github.com/bilalh2001/Time-Capsule) <b><i>(WORK IN PROGRESS)</b></i>
   - [Personal Portfolio](https://github.com/bilalh2001/Personal-Portfolio/tree/main)
 - <b>Java Applications</b>
   - [Mood Improvement Advisor](https://github.com/bilalh2001/Mood-Improvement-Advisor) 
